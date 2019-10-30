@@ -1,3 +1,0 @@
-/home/zh/study/slam_code_study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/zh/study/slam_code_study/cmake-build-debug/CMakeFiles/slam_code_study.dir
-/home/zh/study/slam_code_study/cmake-build-debug/CMakeFiles/edit_cache.dir
